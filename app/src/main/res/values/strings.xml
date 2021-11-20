@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sprint_2</string>
+    <string name="titleLugares">Lugares de interes</string>
+    <string name="poiscategorias">Categorias</string>
+    <string name="Titulo">Conoce Turquia!</string>
+    <string name="get_started">Empecemos</string>
+    <string name="imagenfondo">ImagenFondo</string>
+    <string name="Descripcion">situado en Estambul, fue el centro administrativo del Imperio otomano desde 1465 hasta 1853. La construcción del palacio fue ordenada por el sultán Mehmed II en 1459 y fue completada en 1465. El palacio está situado sobre el Sarayburnu, entre el Cuerno de Oro y el mar de Mármara, desde él se tiene una espléndida vista del Bósforo. Está formado por muchos pequeños edificios construidos juntos y rodeados por cuatro patios.</string>
+    <string name="hacer1">Las dimensiones del Palacio de Topkapi son extraordinarias. Ocupa una extensión de 700.000 metros cuadrados con cinco kilómetros de murallas y en él podían llegar a vivir hasta 4.000 personas.</string>
+    <string name="puertaimperial">La Puerta Imperial es la principal entrada del palacio. Pertenece a la construcción original de la época de Mehmet II del año 1478, de quien mantiene su “tugra” o firma en la parte superior. A través de ella se accede al recinto, comenzando por el primer patio. Una vez dentro, el silencio se apodera del espacio, tal y como exigían los sultanes.</string>
+    <string name="salonimperial">El Salón Imperial es el salón del trono. Una impresionante sala abovedada del siglo XVI decorada al más mínimo detalle donde se realizaban las recepciones y algunos entretenimientos. Contaba con varias puertas secretas hacia otras estancias. En el centro, junto al trono, un pórtico de columnas azules divide el espacio. Cada detalle es de impresión y conviene detener la mirada para observar con calma.</string>
+    <string name="elharem">El Harén (o Harem), la ‘parte prohibida’ en árabe, el lugar reservado a las mujeres. Más de 400 habitaciones para un séquito que iba desde la Reina Madre, y máxima responsable del harén, hasta familia, sirvientes, consortes, príncipes y el resto del entorno del monarca. Allí habitaban cientos de mujeres y muy pocos hombres podían entrar.</string>
+    <string name="eunucos">Los eunucos negros eran quienes custodiaban el harén. A diferencia de los blancos, procedían de la esclavitud y eran africanos. Su labor era proteger el harén y servir a las mujeres. Los eunucos eran castrados por lo que no podían poner en peligro la virginidad de las hembras.</string>
+    <string name="imagenparavolver">imagenparavolver</string>
+    <string name="megusta">imagen para dar me gusta</string>
+    <string name="Nombreendetalle">Palacio de Topkapi</string>
+    <string name="timepo">imagendetiempo</string>
+    <string name="temperatura">30 °</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="para_hacer">Para Hacer!</string>
+    <string name="me_interesa">Me interesa</string>
+    <string name="descripcion2">El Museo de Mevlana (célebre filósofo, cuyos textos son adorados por el pueblo musulmán), se halla situado junto a la Mezquita del Sultán Selim II , construío en el siglo XVI por uno de los arquitectos otomanos más importante de la historia, Sinan. El museo guarda varias tumbas, instrumentos musicales sacros y alfombras de gran valor. El museo se encuentra en el convento de Melvana. Los monjes que habitaban el convento tenían una sección dedicada a la etnografía (que es el estudio de los pueblos).</string>
+    <string name="hacer21">Cada medersa es hoy día un museo y en ellas uno puede encontrar la historia de los selyuquíes o selyúcidas (dinastía turca oghuz que reinó gran parte de Asia menor entre los siglos IX y XIII. Al llegar a Anatolia, impusieron su poderío a tal punto que llegaron a debilitar el Imperio Bizantino).</string>
+    <string name="hacer22">El monasterio (Tekke) derviche es el museo más visitado luego del de Topkapi. El fundador de la orden de los derviches es el religioso Celaleddin Rumi. La filosofía de esta orden se basa en la religión, la música y el baile. Todo está en continuo movimiento al igual que los planetas en el cielo.</string>
+</resources>
